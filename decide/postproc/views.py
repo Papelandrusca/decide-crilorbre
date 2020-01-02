@@ -22,8 +22,8 @@ class PostProcView(APIView):
          * options: [
             {
              option: str ,
-             number: int ,
-             votes: int ,
+             number: int,
+             votes: int,
              ...extraparams
             }
            ]
