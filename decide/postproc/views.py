@@ -21,7 +21,7 @@ class PostProcView(APIView):
          * type: IDENTITY | EQUALITY | WEIGHT
          * options: [
             {
-             option: str ,
+             option: str,
              number: int,
              votes: int,
              ...extraparams
